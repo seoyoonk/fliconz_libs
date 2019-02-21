@@ -72,11 +72,7 @@
 
 
 	<repositories>
-  		<repository>  
- 			<id>fliconz-repository</id> 
- 			<url>https://github.com/seoyoonk/fliconz_libs/blob/master/</url> 
-  			<layout>default</layout> 
- 		</repository> 
+  		
 
 		<repository>
 			<id>fliconz-repository</id>
