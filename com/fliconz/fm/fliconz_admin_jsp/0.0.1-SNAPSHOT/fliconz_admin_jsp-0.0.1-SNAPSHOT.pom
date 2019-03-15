@@ -72,7 +72,11 @@
 
 
 	<repositories>
-  		
+<!-- 		<repository> -->
+<!-- 			<id>fliconz-repository</id> -->
+<!-- 			<url>http://14.63.217.142:7080/repositories/snapshots/</url> -->
+<!-- 			<layout>default</layout> -->
+<!-- 		</repository> -->
 
 		<repository>
 			<id>fliconz-repository</id>
